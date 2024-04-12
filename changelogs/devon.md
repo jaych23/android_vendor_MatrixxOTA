@@ -1,3 +1,8 @@
+# Changelog 12th April 2024: 
+- rebased trees over latest lineage changes.
+- fixed issue of low audio with some circumstances.
+
+  
 # Changelog 03 March 2024: 
 - Rebased trees over latest los changes.
 - upstreamed kernel to 4.19.306.
